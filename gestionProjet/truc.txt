@@ -1,0 +1,6 @@
+-catégorie bon plan(culture,sport,alimentation,technologie) FAIT
+-onglet recherche PAS FAIT
+-accueil() FAIT 
+-descritpion FAIT
+-localisation PAS FAIT
+-administration du site (remove,add,update)
