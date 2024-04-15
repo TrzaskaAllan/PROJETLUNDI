@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    background-color:purple;
+    color:yellow;
+}
+.container {
+    display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center; /* Centrer verticalement */
+    height: 100vh; /* Ajuster à la hauteur de la fenêtre */
+  }
